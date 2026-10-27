@@ -2,7 +2,7 @@
 
 **Tier-B actor · R0 design-only · ADR-2606022000**
 
-Canonical repository: `etzhayyim/actor-kabuto`.
+Canonical repository: `cloud-itonami/actor-kabuto`.
 
 Kabuto is an observation organ of the Tamaki artificial organism, not an
 independent market, legal, sanctions, or enforcement authority. It produces
